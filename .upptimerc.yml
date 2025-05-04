@@ -9,8 +9,10 @@ sites:
     url: https://baleshsrle.github.io/portfolio/
   - name: SFDobojWebAppCollection
     url: https://baleshsrle.github.io/SFDobojWebAppCollection/
-  - name: Blog
-    url: https://baleshevichsrdjan.wordpress.com/
+  - name: jsDelivr CDN
+    url: https://cdn.jsdelivr.net/
+  # - name: Blog
+   # url: https://baleshevichsrdjan.wordpress.com/
  # - name: Test Broken Site
    # url: https://thissitedoesnotexist.koj.co
  # - name: IPv6 test
