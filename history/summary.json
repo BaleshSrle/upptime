@@ -58,19 +58,19 @@
     "url": "https://cdn.jsdelivr.net/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.jsdelivr.net.ico",
     "slug": "js-delivr-cdn",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "92.06%",
+    "uptimeDay": "92.06%",
+    "uptimeWeek": "92.06%",
+    "uptimeMonth": "92.06%",
+    "uptimeYear": "92.06%",
+    "time": 221,
+    "timeDay": 221,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-05-04": 0
+      "2025-05-04": 13
     }
   }
 ]
