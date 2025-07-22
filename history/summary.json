@@ -58,18 +58,20 @@
     "url": "https://cdn.jsdelivr.net/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.jsdelivr.net.ico",
     "slug": "js-delivr-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 197,
-    "timeWeek": 181,
-    "timeMonth": 186,
-    "timeYear": 197,
-    "dailyMinutesDown": {}
+    "time": 199,
+    "timeDay": 284,
+    "timeWeek": 205,
+    "timeMonth": 192,
+    "timeYear": 199,
+    "dailyMinutesDown": {
+      "2025-07-22": 0
+    }
   },
   {
     "name": "AdGuard DNS 1",
