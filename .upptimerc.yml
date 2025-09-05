@@ -12,6 +12,8 @@ sites:
     url: https://baleshsrle.github.io/SFDobojWebAppCollection/
   - name: jsDelivr CDN
     url: https://cdn.jsdelivr.net/
+  - name: cdnjs CDN
+    url: https://cdnjs.cloudflare.com/
   - name: AdGuard DNS 1
     check: "tcp-ping"
     url: 94.140.14.14
