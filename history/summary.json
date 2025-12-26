@@ -4,10 +4,10 @@
     "url": "https://baleshsrle.github.io/",
     "icon": "https://baleshsrle.github.io/images/logo.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
@@ -15,17 +15,19 @@
     "timeWeek": 105,
     "timeMonth": 132,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-26": 1
+    }
   },
   {
     "name": "Portfolio",
     "url": "https://baleshsrle.github.io/portfolio/",
     "icon": "https://icons.duckduckgo.com/ip3/baleshsrle.github.io.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 62,
@@ -33,7 +35,9 @@
     "timeWeek": 50,
     "timeMonth": 66,
     "timeYear": 62,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-26": 1
+    }
   },
   {
     "name": "SFDobojWebAppCollection",
