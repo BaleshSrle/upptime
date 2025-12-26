@@ -4,19 +4,19 @@
     "url": "https://baleshsrle.github.io/",
     "icon": "https://baleshsrle.github.io/images/logo.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 178,
-    "timeWeek": 105,
-    "timeMonth": 132,
-    "timeYear": 149,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 148,
+    "timeDay": 175,
+    "timeWeek": 114,
+    "timeMonth": 134,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-12-26": 1
+      "2025-12-26": 38
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://baleshsrle.github.io/portfolio/",
     "icon": "https://icons.duckduckgo.com/ip3/baleshsrle.github.io.ico",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 62,
-    "timeDay": 109,
-    "timeWeek": 50,
-    "timeMonth": 66,
+    "timeDay": 97,
+    "timeWeek": 54,
+    "timeMonth": 67,
     "timeYear": 62,
     "dailyMinutesDown": {
-      "2025-12-26": 1
+      "2025-12-26": 38
     }
   },
   {
