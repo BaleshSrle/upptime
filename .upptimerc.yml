@@ -14,6 +14,7 @@ sites:
     url: https://cdn.jsdelivr.net/
   - name: cdnjs CDN
     url: https://cdnjs.cloudflare.com/
+    icon: https://github.com/cdnjs/brand/blob/7003d0757f156f5bf0319624ed9df60c479fcf26/logo/favicon/favicon-100.png
   - name: AdGuard DNS 1
     check: "tcp-ping"
     url: 94.140.14.14
