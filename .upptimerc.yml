@@ -5,13 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: Website
     url: https://baleshsrle.github.io/
-    icon: https://baleshsrle.github.io/images/logo.png
+    icon: https://github.com/BaleshSrle/baleshsrle.github.io/blob/e5ef312531b31d73ba6ea8caa33e708e1acb484c/logo.png
   - name: Portfolio
     url: https://baleshsrle.github.io/portfolio/
   - name: SFDobojWebAppCollection
     url: https://baleshsrle.github.io/SFDobojWebAppCollection/
   - name: jsDelivr CDN
     url: https://cdn.jsdelivr.net/
+    icon: https://github.com/jsdelivr/jsdelivr-media/blob/68eb16a653e8f4e44a111371be3c1d41b0bfdb57/default/png/jsdelivr-icon.png
   - name: cdnjs CDN
     url: https://cdnjs.cloudflare.com/
     icon: https://github.com/cdnjs/brand/blob/7003d0757f156f5bf0319624ed9df60c479fcf26/logo/favicon/favicon-100.png
