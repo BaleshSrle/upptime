@@ -91,11 +91,11 @@
     "icon": "https://cdnjs.com/favicon.png",
     "slug": "cdnjs-cdn",
     "status": "down",
-    "uptime": "96.13%",
+    "uptime": "96.10%",
     "uptimeDay": "85.78%",
     "uptimeWeek": "12.25%",
-    "uptimeMonth": "58.40%",
-    "uptimeYear": "96.13%",
+    "uptimeMonth": "58.08%",
+    "uptimeYear": "96.10%",
     "time": 75,
     "timeDay": 61,
     "timeWeek": 61,
@@ -116,7 +116,7 @@
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 724,
-      "2026-07-29": 0
+      "2026-07-29": 144
     }
   },
   {
