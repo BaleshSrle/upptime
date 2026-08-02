@@ -54,7 +54,7 @@
     "timeDay": 64,
     "timeWeek": 110,
     "timeMonth": 116,
-    "timeYear": 85,
+    "timeYear": 86,
     "dailyMinutesDown": {}
   },
   {
@@ -90,10 +90,10 @@
     "url": "https://cdnjs.cloudflare.com/",
     "icon": "https://cdnjs.com/favicon.png",
     "slug": "cdnjs-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "96.04%",
-    "uptimeDay": "81.23%",
-    "uptimeWeek": "69.63%",
+    "uptimeDay": "81.21%",
+    "uptimeWeek": "76.55%",
     "uptimeMonth": "56.84%",
     "uptimeYear": "96.04%",
     "time": 75,
