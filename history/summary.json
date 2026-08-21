@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 142,
-    "timeDay": 151,
-    "timeWeek": 185,
-    "timeMonth": 140,
+    "time": 141,
+    "timeDay": 71,
+    "timeWeek": 153,
+    "timeMonth": 139,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2025-12-26": 38
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 71,
-    "timeDay": 101,
-    "timeWeek": 106,
-    "timeMonth": 89,
+    "timeDay": 32,
+    "timeWeek": 96,
+    "timeMonth": 86,
     "timeYear": 74,
     "dailyMinutesDown": {
       "2025-12-26": 38
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 117,
-    "timeWeek": 120,
-    "timeMonth": 101,
+    "timeDay": 51,
+    "timeWeek": 104,
+    "timeMonth": 95,
     "timeYear": 86,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 191,
-    "timeDay": 180,
-    "timeWeek": 152,
-    "timeMonth": 180,
+    "timeDay": 116,
+    "timeWeek": 145,
+    "timeMonth": 179,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2025-11-18": 160,
@@ -89,15 +89,15 @@
     "url": "https://cdnjs.cloudflare.com/",
     "icon": "https://cdnjs.com/favicon.png",
     "slug": "cdnjs-cdn",
-    "status": "down",
-    "uptime": "95.68%",
-    "uptimeDay": "72.95%",
-    "uptimeWeek": "78.69%",
+    "status": "up",
+    "uptime": "95.66%",
+    "uptimeDay": "66.83%",
+    "uptimeWeek": "77.81%",
     "uptimeMonth": "68.27%",
-    "uptimeYear": "95.68%",
+    "uptimeYear": "95.66%",
     "time": 74,
-    "timeDay": 76,
-    "timeWeek": 70,
+    "timeDay": 67,
+    "timeWeek": 69,
     "timeMonth": 69,
     "timeYear": 74,
     "dailyMinutesDown": {
@@ -132,7 +132,8 @@
       "2026-08-17": 217,
       "2026-08-18": 492,
       "2026-08-19": 520,
-      "2026-08-20": 388
+      "2026-08-20": 451,
+      "2026-08-21": 25
     }
   },
   {
@@ -147,10 +148,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 18,
+    "timeDay": 22,
     "timeWeek": 23,
     "timeMonth": 22,
-    "timeYear": 165,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -164,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 18,
-    "timeWeek": 23,
+    "time": 170,
+    "timeDay": 22,
+    "timeWeek": 24,
     "timeMonth": 23,
-    "timeYear": 165,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   }
 ]
