@@ -13,7 +13,7 @@
     "time": 142,
     "timeDay": 123,
     "timeWeek": 144,
-    "timeMonth": 146,
+    "timeMonth": 147,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2025-12-26": 38
@@ -33,7 +33,7 @@
     "time": 71,
     "timeDay": 147,
     "timeWeek": 101,
-    "timeMonth": 91,
+    "timeMonth": 93,
     "timeYear": 75,
     "dailyMinutesDown": {
       "2025-12-26": 38
@@ -53,7 +53,7 @@
     "time": 80,
     "timeDay": 136,
     "timeWeek": 103,
-    "timeMonth": 94,
+    "timeMonth": 96,
     "timeYear": 87,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 190,
     "timeDay": 105,
     "timeWeek": 146,
-    "timeMonth": 176,
+    "timeMonth": 179,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-11-18": 160,
@@ -91,12 +91,12 @@
     "slug": "cdnjs-cdn",
     "status": "up",
     "uptime": "95.64%",
-    "uptimeDay": "94.95%",
-    "uptimeWeek": "81.17%",
-    "uptimeMonth": "80.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "82.29%",
+    "uptimeMonth": "80.69%",
     "uptimeYear": "95.64%",
     "time": 73,
-    "timeDay": 72,
+    "timeDay": 90,
     "timeWeek": 66,
     "timeMonth": 68,
     "timeYear": 73,
@@ -136,7 +136,7 @@
       "2026-08-21": 176,
       "2026-08-22": 81,
       "2026-08-23": 70,
-      "2026-08-24": 69
+      "2026-08-24": 68
     }
   },
   {
@@ -153,7 +153,7 @@
     "time": 169,
     "timeDay": 32,
     "timeWeek": 21,
-    "timeMonth": 22,
+    "timeMonth": 23,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
