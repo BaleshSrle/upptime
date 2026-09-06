@@ -89,10 +89,10 @@
     "url": "https://cdnjs.cloudflare.com/",
     "icon": "https://cdnjs.com/favicon.png",
     "slug": "cdnjs-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "95.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.80%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "97.79%",
     "uptimeMonth": "90.61%",
     "uptimeYear": "95.58%",
     "time": 75,
@@ -141,7 +141,8 @@
       "2026-08-26": 133,
       "2026-08-28": 64,
       "2026-08-27": 451,
-      "2026-09-02": 222
+      "2026-09-02": 222,
+      "2026-09-06": 0
     }
   },
   {
