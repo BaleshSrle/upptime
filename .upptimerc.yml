@@ -16,6 +16,8 @@ sites:
     icon: https://www.jsdelivr.com/favicon.ico
   - name: cdnjs CDN
     url: https://cdnjs.cloudflare.com/
+    type: globalping
+    location: Belgrade
     icon: https://cdnjs.com/favicon.png
   - name: AdGuard DNS 1
     check: "tcp-ping"
